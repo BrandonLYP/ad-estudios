@@ -1,0 +1,14 @@
+# Carpetas de dependencias
+node_modules/
+
+# Archivos locales
+/package-lock.json
+/package.json
+
+#IDEs
+.vscode/
+.idea/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
